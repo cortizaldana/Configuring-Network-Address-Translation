@@ -1,6 +1,6 @@
 # Configuring-Network-Address-Translation
 
-<a href="https://youtu.be/BO9x8ZJe3mg"> YouTube: Configuring Network Address Translation </a>
+- <a href="https://youtu.be/BO9x8ZJe3mg"> YouTube: Configuring Network Address Translation </a>
 
 # Commands Issued To Configure NAT
 
