@@ -24,4 +24,4 @@ firewall-cmd --reload
 
 # Video 
 
-[![Watch the video](https://youtu.be/nHSCSD4VjfA)
+https://youtu.be/nHSCSD4VjfA
